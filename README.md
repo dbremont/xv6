@@ -49,3 +49,8 @@ will need to install a cross-compiler gcc suite capable of producing
 x86 ELF binaries (see https://pdos.csail.mit.edu/6.828/).
 Then run "make TOOLPREFIX=i386-jos-elf-". Now install the QEMU PC
 simulator and run "make qemu".
+
+## Proc File System
+
+Retrieve filename from file descriptor in C
+https://stackoverflow.com/questions/1188757/retrieve-filename-from-file-descriptor-in-c
