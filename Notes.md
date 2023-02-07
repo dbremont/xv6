@@ -121,3 +121,32 @@ echo foo > bar should truncate bar
 make it work on a real machine
 release before acquire at end of sleep?
 check 2nd disk (i.e. if not in .bochsrc)
+
+## File System
+
+File System:
+
+What does <> stores?
+/     This is the root directory.
+/bin/    
+/boot
+/dev/
+/home
+/lib/
+/media/
+/mnt/
+/opt/
+/sbin/
+/srv/
+/tmp/
+/usr/
+/var/
+/root/
+/proc/
+
+What's is the Filesystem Hierarchy Standard?  https://www.wikiwand.com/en/Filesystem_Hierarchy_Standard#Directory_structure
+`man hier`
+
+## Proceses
+Maximum number of threads per process in Linux?
+https://stackoverflow.com/questions/344203/maximum-number-of-threads-per-process-in-linux
